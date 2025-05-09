@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @amirolroslan
 - 👀 I’m interested in music, geology and random analysis  
 - 🌱 I’m currently learning SQL, python
-- 💞️ I’m looking to collaborate on data analytics
+- 💞️ I’m looking to collaborate on data analytics and business analyst
 
 
 <!---
